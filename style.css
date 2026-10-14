@@ -1,0 +1,21 @@
+
+ 
+body {
+    background-color: red;
+    font-family: normal;
+	text-align: center;
+}
+button {
+  background-color: red ; /* Couleur de fond du bouton (red) */
+  color: orange;          /* Couleur du texte du bouton (orange) */
+  border: none;            /* Supprime la bordure par défaut si besoin */
+  padding: 10px 20px;      /* Ajoute un espacement interne */
+  border-radius: 5px;       /* Arondi les coins */
+  
+}
+img {
+  display: block;
+  width: 300px; /* Adaptez la largeur selon vos besoins */
+  margin-left: auto;
+  margin-right: auto;
+}

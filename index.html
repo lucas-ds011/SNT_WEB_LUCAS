@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+    <title>FLASH MCQUEEN</title>
+	<link rel="stylesheet" href="style.css">
+	
+</head>
+	
+<body>
+	<p style="text-align: center;">LUCAS DESA</p>
+	<img src="image.jpg" width="300"> 
+	<img class="centree">
+	<button>JE SUIS LA</button>
+	<button onclick="alert('BRAVO TU MA TROUVER')">COUCOU</button>
+	<button onclick="alert('Ka-Chow !')">McQueen</button>
+	<p id="texte">Texte initial</p>
+    <button onclick="changerTexte()">année</button>
+    <button onclick="changerTexte2()">classe</button>
+<script>
+        function changerTexte() {
+        document.getElementById("texte").innerHTML = "2026";
+		}
+        function changerTexte2() {
+        document.getElementById("texte").innerHTML = "2GT7";
+		}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LUCAS</title>
+</head>
+      <img src="image.jpg" width="200" height="100">
+	  <button>JE SUIS LA</button>
+	  <button>COUCOU</button>
+	  <button onclick="alert('')"></button>
+<body>
+    <h1>DE SA</h1>
+    <p>VOICI  MA PAGE WEB</p>
+</body>
+</html>
